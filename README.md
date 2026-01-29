@@ -8,3 +8,4 @@ What is most interesting is the change in how companies view efficiency. With th
 
 ## Lan's Reflection 
 With the demand for junior engineers decreasing, prospective students and job-seekers are facing a daunting question of how keep up, or even compete with AI. This can be a demoralizing shift. A CS degree was once seen as a safe bet, promising high ROI after 4 years of undergrad. Is this article calling for a more intensive curriculum tailored for students to adapt to new technology, or is it simply echoing a broader concern about the profession’s evolution? After all, we saw a similar shift, pre-AI, when tech companies diverted entry-level jobs to offshore outsourcing. This pattern reveals a big question for next-gens: do we jump boats or continue this upstream battle? 
+
